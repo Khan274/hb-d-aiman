@@ -277,7 +277,7 @@ const animationTimeline = () => {
             confirmButtonText: 'Yes, take me there!'
         }).then((result) => {
             if (result.isConfirmed) {
-                window.location.href = "https://birthday-site-v2-ruddy.vercel.app/";
+                window.location.href = "https://happybirthday-lady.vercel.app/";
             }
         });
     });
